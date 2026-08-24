@@ -57,8 +57,7 @@ The project includes queries for:
 
 ## 💻 Tools Used
 
-- MySQL
-- SQL
+- DBeaver
 
 ## 📌 Conclusion
 
